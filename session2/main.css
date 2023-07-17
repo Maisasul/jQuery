@@ -1,0 +1,19 @@
+.box
+{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    /* display: none; */
+}
+.top
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 5px;
+    height: 20px;
+    background-color: darkblue;
+    border-radius: 2px;
+}
+#list{
+    margin-top: 20px;
+}
